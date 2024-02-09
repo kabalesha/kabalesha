@@ -11,7 +11,7 @@ I'm a Software developer
 ### My stack
 
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,git,vue,html,css,sass,nodejs,express,mongodb,postman,docker,materialui,bootstrap,figma,vscode" />
   </a>

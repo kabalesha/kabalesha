@@ -13,6 +13,6 @@ I'm a Software developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,git,vue,html,css,sass,node,express,mongodb,docker,render,materialui,bootstrap,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,git,vue,html,css,sass,nodejs,express,mongodb,docker,render,materialui,bootstrap,figma" />
   </a>
 </p>

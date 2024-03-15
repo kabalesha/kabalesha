@@ -1,7 +1,7 @@
 Hi there!👋 My name is Alexei
 ===================================================================================================================================
 
-I'm a Software developer
+I'm a Frontend developer
 ------------------
 
 * 🔭 Working on a lot of different stuff
